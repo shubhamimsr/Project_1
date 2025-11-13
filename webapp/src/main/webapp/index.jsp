@@ -50,11 +50,12 @@
       <td><input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required></td>
     </tr>
 
-    <tr>
+   <!-- <tr>
       <td colspan="2" style="text-align: center;">
         <button type="submit">Register</button>
       </td>
     </tr>
+-->
   </table>
 </form>
 
